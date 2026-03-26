@@ -1,21 +1,16 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="MPB",NovaBrasil Recife
+#EXTINF:-1 tvg-name="NovaBrasil Recife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Nova_Brasil_FM_logo.png" group-title="MPB",NovaBrasil Recife
 https://24373.live.streamtheworld.com/NOVABRASIL_RECAAC.aac
 
-#EXTINF:-1 group-title="MPB",Clube FM
+#EXTINF:-1 tvg-name="Clube FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Clube_FM_logo.png" group-title="MPB",Clube FM
 https://radio.saopaulo01.com.br/8016/stream
 
-#EXTINF:-1 group-title="Noticias",CBN Recife
+#EXTINF:-1 tvg-name="CBN Recife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/CBN_logo.png" group-title="Noticias",CBN Recife
 https://video09.logicahost.com.br/cbnrecife/cbnrecife/playlist.m3u8
 
-#EXTINF:-1 group-title="Gospel",Top Gospel
+#EXTINF:-1 tvg-name="Top Gospel" tvg-logo="https://i.imgur.com/7pG7G4K.png" group-title="Gospel",Top Gospel
 https://a.cdni.live/topgospelfm/topgospelfm/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Pop",Jovem Pan
+#EXTINF:-1 tvg-name="Jovem Pan FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Jovem_Pan_FM_logo.png" group-title="Pop",Jovem Pan
 https://stream-145.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNDUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjREdnZPQUdvUjBlTzVIRGF0WUMydlEiLCJpYXQiOjE3NzQ0OTM4NTIsImV4cCI6MTc3NDQ5MzkxMn0.1zQSQJOAmAEFkDXLMRU1YLwRGDnj_1jLvzmcprbuZU4
-
-#EXTINF:-1 group-title="Noticias",Radio Jornal
-https://cdndirector.dailymotion.com/cdn/live/video/x8tkmh4.m3u8?sec=ylbHItzJxbz9lwUtEIt0NuO8Ufr8GXgDlhFfA1--GUXP_6YhYKVVJsJQ9ZkbNh_hN3TI5JvLu8R-TcarUDJtUS2CgOM6B897hRVLJPz1VrY&dmTs=878337&dmV1st=20795120-4a0c-146b-4a36-734f28e81fd5
