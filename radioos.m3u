@@ -14,3 +14,16 @@ https://a.cdni.live/topgospelfm/topgospelfm/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Jovem Pan FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Jovem_Pan_FM_logo.png" group-title="Pop",Jovem Pan
 https://stream-145.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNDUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjREdnZPQUdvUjBlTzVIRGF0WUMydlEiLCJpYXQiOjE3NzQ0OTM4NTIsImV4cCI6MTc3NDQ5MzkxMn0.1zQSQJOAmAEFkDXLMRU1YLwRGDnj_1jLvzmcprbuZU4
+
+
+#EXTINF:-1 tvg-name="Rádio Jornal Recife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Radio_Jornal_logo.png" group-title="Noticias",Rádio Jornal Recife
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_JORNAL_RECIFE.mp3
+
+#EXTINF:-1 tvg-name="Transamérica Recife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Transamerica_logo.png" group-title="Pop",Transamérica Recife
+https://stream.zeno.fm/8y9q1z2rf0quv
+
+#EXTINF:-1 tvg-name="Recife FM 97.5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Recife_FM_logo.png" group-title="Popular",Recife FM
+https://stream.zeno.fm/4wqre23bap8uv
+
+#EXTINF:-1 tvg-name="Mix FM Recife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Mix_FM_logo.png" group-title="Pop",Mix FM Recife
+https://23743.live.streamtheworld.com/MIXFM_SPAAC.aac
