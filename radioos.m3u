@@ -28,5 +28,3 @@ https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
 #EXTINF:-1 tvg-name="Mix FM Recife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Mix_FM_logo.png" group-title="Pop",Mix FM Recife
 https://26573.live.streamtheworld.com:443/MIXFM_RECIFE971AAC.aac
 
-#EXTINF:-1 group-title="YouTube Lives",Live MPB
-https://manifest.googlevideo.com/api/manifest/hls/id/15Lhdn8aclU
